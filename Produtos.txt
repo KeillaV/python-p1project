@@ -1,0 +1,6 @@
+11 Arroz 3
+12 Feijão 3.5
+13 Macarrão 2.5
+14 Café 2.5
+15 Biscoito 2.25
+16 Cereal 4.5 
